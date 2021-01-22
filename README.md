@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![project screenshot](https://github.com/sirreajohn/Tic_Tac_Toe_with_1_step_look_ahead_agent/tree/main/images/check_.png?raw=true)
 
 this is a tictactoe game made from scratch under 1 hr as part of a challenge, while implementing an agent is out of scope of the said challenge. it gave me a opportunity to 
 explore a new ~niche pleasure of watching ur creation doing things~ hobby
@@ -97,7 +97,7 @@ To set this up locally, just download the rar and open IDE, set PWD to these fil
         else:
             return valid_moves[np.random.choice([*range(len(valid_moves)-1)])]
 ```
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![win_one](https://github.com/sirreajohn/Tic_Tac_Toe_with_1_step_look_ahead_agent/tree/main/images/win_one.png?raw=true)
 
 * blocking player
 ```
@@ -120,7 +120,7 @@ To set this up locally, just download the rar and open IDE, set PWD to these fil
          else:
              return -1
 ```
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![blocking](https://github.com/sirreajohn/Tic_Tac_Toe_with_1_step_look_ahead_agent/tree/main/images/blocks happen!.png)
 
 <!-- CONTACT -->
 ## Contact
