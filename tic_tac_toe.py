@@ -55,6 +55,8 @@ class tic_tac_toe:
                 return 1
         return 0
     def in_deter(self,pos):
+        #kill me for this monstrosity of a code
+        #past me, what were you thinking...USE A DICTIONARY!!!!
         if pos in [0,1,2]:
             if pos == 0:
                 return [0,0]
